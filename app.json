@@ -1,0 +1,36 @@
+{
+  "id": "727fbade-6b74-459e-aba0-a9fc81a67c0c",
+  "name": "Purchase Order OverDue Agent",
+  "publisher": "Anish Agrawal",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "28.0.0.0",
+  "idRanges": [
+    {
+      "from": 77101,
+      "to": 77120
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "target": "Cloud",
+  "resourceFolders": [
+        "Resources"
+    ]
+}
